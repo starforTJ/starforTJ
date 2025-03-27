@@ -7,7 +7,7 @@
 ---
 
 ## 👋 About Me
-PhD in Computer Science(Yonsei University, Seoul) 2024-Present
+PhD in Computer Science(Yonsei University, Seoul) 2024-Present <br>
 BS in Astronomy(Yonsei University, Seoul) 2018-2024
 
 - 💡 Research Interests: Medical Image, Computer Vision, Graph Neural Network, Diffusion, Foundation Model
