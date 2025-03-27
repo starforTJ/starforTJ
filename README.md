@@ -20,7 +20,7 @@ BS in Astronomy(Yonsei University, Seoul) 2018-2024
 <span style="font-weight:600">[Mar 2025]</span> <a href="https://arxiv.org/abs/2503.18642">Rethinking Glaucoma Calibration: Voting-Based Binocular and Metadata Integration</a> has been released on arXiv. <br>
 <span style="font-weight:600">[Jan 2025]</span> <a href="https://arxiv.org/abs/2407.17843">DragText: Rethinking Text Embedding in Point-based Image Editing</a> has been selected as a <b>Oral</b>&#10024; (< 21.8%) to WACV 2025. <br>
 <span style="font-weight:600">[Sep 2024]</span> <a href="https://arxiv.org/abs/2409.12099">Brain-Streams: fMRI-to-Image Reconstruction with Multi-modal Guidance</a> has been released on arXiv. <br>
-<span style="font-weight:600">[Aug 2024]</span> <a href="https://arxiv.org/abs/2407.17843">DragText: Rethinking Text Embedding in Point-based Image Editing</a> has been accepted to WACV 2025 Round 1 (< 12.8%).
+<span style="font-weight:600">[Aug 2024]</span> <a href="https://arxiv.org/abs/2407.17843">DragText: Rethinking Text Embedding in Point-based Image Editing</a> has been accepted to WACV 2025 Round 1 (< 12%).
 
 ---
 
