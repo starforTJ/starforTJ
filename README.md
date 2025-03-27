@@ -7,8 +7,8 @@
 ---
 
 ## 👋 About Me
-PhD in Computer Science(Yonsei University, Seoul) 2024~Present
-BS in Astronomy(Yonsei University, Seoul) 2018~2024
+PhD in Computer Science(Yonsei University, Seoul) 2024-Present
+BS in Astronomy(Yonsei University, Seoul) 2018-2024
 
 - 💡 Research Interests: Medical Image, Computer Vision, Graph Neural Network, Diffusion, Foundation Model
 - 🏛️ Affiliation: Medical Imaging & Computer Vision Lab, Yonsei University, Seoul
@@ -17,10 +17,10 @@ BS in Astronomy(Yonsei University, Seoul) 2018~2024
 
 ## 🗞️ News
 
-[Mar 2025] ![Rethinking Glaucoma Calibration: Voting-Based Binocular and Metadata Integration](https://arxiv.org/abs/2503.18642) has been released on arXiv.
-[Jan 2025] ![DragText: Rethinking Text Embedding in Point-based Image Editing](https://arxiv.org/abs/2407.17843) has been selected as a <b>Oral<b>&#10024; (< 21.8%) to WACV 2025.
-[Sep 2024] ![Brain-Streams: fMRI-to-Image Reconstruction with Multi-modal Guidance](https://arxiv.org/abs/2409.12099) has been released on arXiv.
-[Aug 2024] ![DragText: Rethinking Text Embedding in Point-based Image Editing](https://arxiv.org/abs/2407.17843) has been accepted to WACV 2025 Round 1 (12% of submissions).
+[Mar 2025] <a href="https://arxiv.org/abs/2503.18642">Rethinking Glaucoma Calibration: Voting-Based Binocular and Metadata Integration</a> has been released on arXiv. <br>
+[Jan 2025] <a href="https://arxiv.org/abs/2407.17843">DragText: Rethinking Text Embedding in Point-based Image Editing</a> has been selected as a <b>Oral</b>&#10024; (< 21.8%) to WACV 2025. <br>
+[Sep 2024] <a href="https://arxiv.org/abs/2409.12099">Brain-Streams: fMRI-to-Image Reconstruction with Multi-modal Guidance</a> has been released on arXiv. <br>
+[Aug 2024] <a href="https://arxiv.org/abs/2407.17843">DragText: Rethinking Text Embedding in Point-based Image Editing</a> has been accepted to WACV 2025 Round 1 (12% of submissions).
 ---
 
 ## 🛠 Tech Stack
