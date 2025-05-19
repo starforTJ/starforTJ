@@ -7,6 +7,7 @@
 ---
 
 ## 👋 About Me
+Data Scientist Intern(Mediwhale, Republic of Korea) 2025-Present <br>
 PhD in Computer Science(Yonsei University, Seoul) 2024-Present <br>
 BS in Astronomy(Yonsei University, Seoul) 2018-2024
 
@@ -17,6 +18,7 @@ BS in Astronomy(Yonsei University, Seoul) 2018-2024
 
 ## 🗞️ News
 
+<span style="font-weight:600">[May 2025]</span> Joined <a href="https://mediwhale.com/ko/">Mediwhale as a Data Scientist Intern. <br>
 <span style="font-weight:600">[Mar 2025]</span> <a href="https://arxiv.org/abs/2503.18642">Rethinking Glaucoma Calibration: Voting-Based Binocular and Metadata Integration</a> has been released on arXiv. <br>
 <span style="font-weight:600">[Jan 2025]</span> <a href="https://arxiv.org/abs/2407.17843">DragText: Rethinking Text Embedding in Point-based Image Editing</a> has been selected as a <b>Oral</b>&#10024; (< 21.8%) to WACV 2025. <br>
 <span style="font-weight:600">[Sep 2024]</span> <a href="https://arxiv.org/abs/2409.12099">Brain-Streams: fMRI-to-Image Reconstruction with Multi-modal Guidance</a> has been released on arXiv. <br>
