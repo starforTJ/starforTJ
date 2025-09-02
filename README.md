@@ -7,7 +7,8 @@
 ---
 
 ## 👋 About Me
-Data Scientist Intern(Mediwhale, Republic of Korea) 2025-Present <br>
+Data Scientist(Mediwhale, Republic of Korea) 2025-Present <br>
+Data Scientist Intern(Mediwhale, Republic of Korea) 2025-2025 <br>
 PhD in Computer Science(Yonsei University, Seoul) 2024-Present <br>
 BS in Astronomy(Yonsei University, Seoul) 2018-2024
 
