@@ -58,5 +58,5 @@ BS in Astronomy(Yonsei University, Seoul) 2018-2024
 
 ## 📫 Contact Me
 
-- Email: **starforest@yonsei.ac.kr**, **starfortj@gmail.com**
+- Email: **starforest@yonsei.ac.kr**, **tj.jeong@mediwhale.com**, **starfortj@gmail.com**
 - GitHub: [github.com/starforTJ](https://github.com/starforTJ)
